@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "77f47a18-96f6-4f15-b27a-dca70227de6b++681" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "77f47a18-96f6-4f15-b27a-dca70227de6b++681" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C37FDB9-F902-4E4B-AA3C-18641350B0FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "77f47a18-96f6-4f15-b27a-dca70227de6b++681" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "umengDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "umengDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/114.215.147.237:18080\/svn\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77f47a18-96f6-4f15-b27a-dca70227de6b++681"
+    }
+  ]
+}
